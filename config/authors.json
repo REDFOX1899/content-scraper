@@ -1,0 +1,101 @@
+{
+  "balaji_srinivasan": {
+    "name": "Balaji Srinivasan",
+    "twitter": {
+      "handle": "balajis",
+      "verified": true
+    },
+    "youtube_channels": [
+      {
+        "name": "Balaji Srinivasan",
+        "channel_id": "UCskQMwoodTt2-zNixr48xVA",
+        "url": "https://www.youtube.com/@balajis"
+      }
+    ],
+    "blogs": [
+      {
+        "name": "Balaji's Blog",
+        "url": "https://balajis.com",
+        "type": "personal"
+      },
+      {
+        "name": "Mirror/Substack",
+        "url": "https://balajis.mirror.xyz",
+        "type": "mirror"
+      }
+    ],
+    "podcasts": [
+      {
+        "name": "Guest Appearances",
+        "search_keywords": ["balaji srinivasan", "balaji"]
+      }
+    ],
+    "books": [
+      {
+        "title": "The Network State",
+        "url": "https://thenetworkstate.com",
+        "type": "online",
+        "publicly_available": true
+      }
+    ],
+    "official_domains": [
+      "balajis.com",
+      "thenetworkstate.com",
+      "balajis.mirror.xyz"
+    ]
+  },
+  "tim_ferriss": {
+    "name": "Tim Ferriss",
+    "twitter": {
+      "handle": "tferriss",
+      "verified": true
+    },
+    "youtube_channels": [
+      {
+        "name": "Tim Ferriss",
+        "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
+        "url": "https://www.youtube.com/@TimFerriss"
+      }
+    ],
+    "blogs": [
+      {
+        "name": "The Tim Ferriss Show Blog",
+        "url": "https://tim.blog",
+        "type": "personal"
+      }
+    ],
+    "podcasts": [
+      {
+        "name": "The Tim Ferriss Show",
+        "rss_url": "https://rss.art19.com/tim-ferriss-show",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795"
+      }
+    ],
+    "books": [
+      {
+        "title": "The 4-Hour Workweek",
+        "excerpts_url": "https://tim.blog/category/the-4-hour-workweek/"
+      },
+      {
+        "title": "Tools of Titans",
+        "excerpts_url": "https://tim.blog/category/tools-of-titans/"
+      },
+      {
+        "title": "Tribe of Mentors",
+        "excerpts_url": "https://tim.blog/category/tribe-of-mentors/"
+      },
+      {
+        "title": "The 4-Hour Body",
+        "excerpts_url": "https://tim.blog/category/the-4-hour-body/"
+      },
+      {
+        "title": "The 4-Hour Chef",
+        "excerpts_url": "https://tim.blog/category/the-4-hour-chef/"
+      }
+    ],
+    "official_domains": [
+      "tim.blog",
+      "fourhourworkweek.com"
+    ]
+  }
+}
