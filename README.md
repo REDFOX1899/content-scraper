@@ -67,7 +67,7 @@ Scrape, validate, and analyze content from your favorite thought leaders across 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/content-scraper.git
+git clone https://github.com/REDFOX1899/content-scraper.git
 cd content-scraper
 
 # Run automated setup
@@ -494,8 +494,8 @@ If you find this project useful, please consider giving it a star! ⭐
 
 ## 💬 Community
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/content-scraper/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/content-scraper/discussions)
+- **Issues**: [GitHub Issues](https://github.com/REDFOX1899/content-scraper/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/REDFOX1899/content-scraper/discussions)
 - **Pull Requests**: [Contributing Guide](CONTRIBUTING.md)
 
 ---
